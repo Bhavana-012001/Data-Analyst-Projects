@@ -1,5 +1,5 @@
 # Data-Analyst-Projects
-HR Analytics Project
+# HR Analytics Project
  HR Analytics, also known as Human Resources Analytics or People Analytics, is the process of utilizing data and statistical analysis to make informed decisions about human resource management and workforce-related issues. An HR Analytics project aims to leverage data-driven insights to enhance talent acquisition, employee engagement, performance management, retention, and other HR functions.
 
 Here's a description of a typical HR Analytics project:
